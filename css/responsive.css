@@ -1,0 +1,111 @@
+@media all and (max-width:990px){
+	.banner {
+        padding: 60px 0px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .banner p br {
+        display: none;
+    }
+    .banner p {
+        font-size: 14px;
+    }
+    .service-area {
+        padding: 50px 0px;
+    }
+    .channel-area {
+        padding: 50px 0px;
+    }
+    .steps-area {
+        padding: 50px 0px;
+    }
+}
+
+@media all and (max-width:767px){
+	.single-service {
+        text-align: center;
+        padding: 0px 8%;
+        margin-bottom: 40px;
+    }
+    .hero-area-start {
+        background-size: cover;
+        background-position: center center;
+    }
+    .service-area {
+        padding: 30px 0px;
+    }
+    .channel-area {
+        padding: 30px 0px;
+    }
+    .steps-area {
+        padding: 30px 0px;
+    }
+    .single-steps {
+        margin-bottom: 30px;
+    }
+    .button-area {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .path-one {
+        width: 80px;
+    }
+    .path-two {
+        width: 80px;
+    }
+    .path-three {
+        width: 80px;
+    }
+    .path-six {
+        width: 80px;
+    }
+    .path-five {
+        width: 80px;
+    }
+    .path-four {
+        width: 80px;
+    }
+    .path-eight {
+        width: 80px;
+    }
+    .path-nine {
+        width: 80px;
+    }
+    .contact-area ul li {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .copyright-left {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .copyright-right p {
+        text-align: center;
+    }
+
+}
+
+
+@media all and (max-width: 575px){
+	.section-head h2 {
+        font-size: 24px;
+    }
+    .social-channel ul li a {
+        font-size: 30px;
+    }
+    .social-channel ul {
+        -webkit-box-pack: space-evenly;
+            -ms-flex-pack: space-evenly;
+                justify-content: space-evenly;
+    }
+
+
+
+}
+
+
+@media all and (max-width: 320px){
+	
+}
